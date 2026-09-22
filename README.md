@@ -16,9 +16,12 @@
 
 <img src="assets/header-connect.svg" width="100%" alt="Connect With Me"/>
 
-<a href="https://www.linkedin.com/in/shahmeer-naseer-286256385"><img src="assets/social-linkedin.svg" height="42" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/shahmeer2021"><img src="assets/social-instagram.svg" height="42" alt="Instagram"/></a>
-  <a href="mailto:shahmeerkong@gmail.com"><img src="assets/social-gmail.svg" height="42" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="assets/social-linkedin.svg" height="42" alt="LinkedIn"/></a>
+  <a href="https://x.com/YOUR_X"><img src="assets/social-x.svg" height="42" alt="X"/></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="assets/social-instagram.svg" height="42" alt="Instagram"/></a>
+  <a href="https://www.tiktok.com/@YOUR_TIKTOK"><img src="assets/social-tiktok.svg" height="42" alt="TikTok"/></a>
+  <a href="https://youtube.com/@YOUR_YOUTUBE"><img src="assets/social-youtube.svg" height="42" alt="YouTube"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="assets/social-gmail.svg" height="42" alt="Email"/></a>
 
 <img src="assets/footer.svg" width="100%" alt="Thanks for visiting!"/>
 
