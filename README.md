@@ -13,7 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=Independent+Web+Developer;React+%2B+Vite+Frontend+Builder;Firebase+%2F+Supabase+Backend+Explorer;Turning+Bugs+Into+Lessons;Learning+%26+Building+Every+Day;Shipping+Real+Projects+Solo)](https://git.io/typing-svg)
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxnZHNiMDlqb3pmcDNteW52NGhuMWZpcGp6dTRwZ2FjcjJ0dmI1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy.gif" height="500px" width="500px">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" height="500px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" height="5px"/>
 
 </div>
 
